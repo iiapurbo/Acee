@@ -2,10 +2,10 @@ streamlit
 pandas
 requests
 reportlab
-uuid
 langchain
 langchain-community
 langchain-core
 langchain-chroma
 langchain-huggingface
 litellm
+protobuf<4.24
