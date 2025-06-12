@@ -9,3 +9,4 @@ langchain-chroma
 langchain-huggingface
 litellm
 protobuf<4.24
+faiss-cpu
