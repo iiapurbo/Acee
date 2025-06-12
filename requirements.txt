@@ -1,3 +1,3 @@
 reportlab
-TextLoader
-TextLoader
+langchain
+langchain-community
